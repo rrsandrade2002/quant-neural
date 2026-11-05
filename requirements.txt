@@ -1,1 +1,10 @@
-requirements.txt
+fastapi
+uvicorn
+sqlalchemy
+opencv-python-headless
+joblib
+numpy
+pandas
+yfinance
+scikit-learn
+tensorflow-cpu
